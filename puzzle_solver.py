@@ -180,3 +180,5 @@ else:
     print("Time                 :", int(t1), "s")
     print("Exactly              :", t1, "s")
     print("Nodes                :", len(bfs))
+
+print("something")
